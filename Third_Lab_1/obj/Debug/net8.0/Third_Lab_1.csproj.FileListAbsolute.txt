@@ -1,0 +1,14 @@
+C:\Users\tetie\Desktop\Моё\Навчання\прогармування\Second_Year\Third_Lab_1\bin\Debug\net8.0\Third_Lab_1.exe
+C:\Users\tetie\Desktop\Моё\Навчання\прогармування\Second_Year\Third_Lab_1\bin\Debug\net8.0\Third_Lab_1.deps.json
+C:\Users\tetie\Desktop\Моё\Навчання\прогармування\Second_Year\Third_Lab_1\bin\Debug\net8.0\Third_Lab_1.runtimeconfig.json
+C:\Users\tetie\Desktop\Моё\Навчання\прогармування\Second_Year\Third_Lab_1\bin\Debug\net8.0\Third_Lab_1.dll
+C:\Users\tetie\Desktop\Моё\Навчання\прогармування\Second_Year\Third_Lab_1\bin\Debug\net8.0\Third_Lab_1.pdb
+C:\Users\tetie\Desktop\Моё\Навчання\прогармування\Second_Year\Third_Lab_1\obj\Debug\net8.0\Third_Lab_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tetie\Desktop\Моё\Навчання\прогармування\Second_Year\Third_Lab_1\obj\Debug\net8.0\Third_Lab_1.AssemblyInfoInputs.cache
+C:\Users\tetie\Desktop\Моё\Навчання\прогармування\Second_Year\Third_Lab_1\obj\Debug\net8.0\Third_Lab_1.AssemblyInfo.cs
+C:\Users\tetie\Desktop\Моё\Навчання\прогармування\Second_Year\Third_Lab_1\obj\Debug\net8.0\Third_Lab_1.csproj.CoreCompileInputs.cache
+C:\Users\tetie\Desktop\Моё\Навчання\прогармування\Second_Year\Third_Lab_1\obj\Debug\net8.0\Third_Lab_1.dll
+C:\Users\tetie\Desktop\Моё\Навчання\прогармування\Second_Year\Third_Lab_1\obj\Debug\net8.0\refint\Third_Lab_1.dll
+C:\Users\tetie\Desktop\Моё\Навчання\прогармування\Second_Year\Third_Lab_1\obj\Debug\net8.0\Third_Lab_1.pdb
+C:\Users\tetie\Desktop\Моё\Навчання\прогармування\Second_Year\Third_Lab_1\obj\Debug\net8.0\Third_Lab_1.genruntimeconfig.cache
+C:\Users\tetie\Desktop\Моё\Навчання\прогармування\Second_Year\Third_Lab_1\obj\Debug\net8.0\ref\Third_Lab_1.dll
